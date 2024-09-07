@@ -34,3 +34,5 @@ I’m excited to present my latest project—a comprehensive Road Accident Analy
 
 This project highlights the critical role of data science and analytics in improving road safety. By identifying key risk factors and analyzing patterns, we can take proactive steps to prevent accidents and save lives.
 
+
+![Road Accident Dashboard Pic](https://github.com/user-attachments/assets/f4e04852-e873-4d76-af70-b7eb9aa3d3bc)
